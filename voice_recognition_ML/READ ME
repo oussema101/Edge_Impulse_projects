@@ -1,0 +1,16 @@
+HIGHLY IMPORTANT :
+this project is a part of a course from coursera named "INTRODUCTION TO EMBEDDED MACHINE LEARNING " by EDGE IMPULSE. 
+https://www.coursera.org/learn/introduction-to-embedded-machine-learning/supplement/NbsFc/project-sound-classification
+
+
+
+
+
+PROJECT DESCRIPTION :
+"
+Project - Sound Classification
+Introduction
+In this module, we went through the steps of creating a speech recognition (or keyword spotting) system. The same basic steps can be used to create a device that recognizes and classifies other sounds, too!
+
+In this project, we will start with a simple, pre-made dataset, add our own target sound, and build a classifier for those sounds. I encourage you to find sounds made with something other than your voice!
+"
