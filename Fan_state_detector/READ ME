@@ -1,0 +1,11 @@
+HIGHLY IMPORTANT :
+this project is a part of a course from coursera named "INTRODUCTION TO EMBEDDED MACHINE LEARNING " by EDGE IMPULSE. 
+PROJECT LINK :https://www.coursera.org/learn/introduction-to-embedded-machine-learning/supplement/bncuX/project-motion-detection
+
+PROJECT DESCRIPTION :
+
+Project - Motion Detection
+Introduction
+Welcome to the first project of the course! In this project, we will ask you to employ many of the concepts you have learned in the previous modules to create a fully-functioning embedded machine learning system. The process will include collecting data, performing feature extraction, training a model, and deploying that model to an embedded system.
+
+We will classify the motion and vibration data from a machine of your choice. This is to mimic using embedded machine learning in an industrial environment. We want to be able to determine if a machine is off, on, low, high, anomaly, etc.
